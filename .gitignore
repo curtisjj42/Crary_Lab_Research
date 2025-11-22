@@ -1,1 +1,11 @@
 /slides/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter output (optional - decide if you want to commit outputs)
+*-checkpoint.ipynb
+
+.env
+
+/data-files/

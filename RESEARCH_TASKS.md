@@ -1,14 +1,23 @@
 # Project: Jason Launchpad
 
 ## Current Sprint (Deadline: 10/15)
-- [x] get one or two WSI (.svs files) using OpenSlide
-- [>] use histo-path software to create tiling
-- [ ] download UNI (foundational model)
+- [>] build sustainable repository workflow
+  - [x] create GitHub repo
+  - [x] build file structure
+  - [>] add jupyter integration
+- [>] Learn slide management software
+  - [x] install and practice with OpenSlide
+    - Notebook: `notebooks/training/OpenSlide_learning.ipynb`
+    - Status: Complete
+  - [>] use histo-path software to create tiling
+    - Notebook: `notebooks/training/tiling.ipynb`
+    - Status: In progress
+- [>] download UNI (foundational model)
 - [ ] map tiles to embedding vectors
-- [ ] upload to GitHub
+
 
 ## Milestone 2 (Deadline: 11/30)
-- [ ] get access to Crary Slide Archive
+- [x] get access to Crary Slide Archive
 - [ ] work with John/Kurt to identify data with full cognitive testing battery (NACC cohort?)
 - [ ] request Mt Sinai and Minerva credentials
 
