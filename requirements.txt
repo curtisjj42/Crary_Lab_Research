@@ -13,3 +13,6 @@ openslide-python>=1.3
 # Notebooks (quality-of-life for working in notebooks/ipynb)
 jupyter>=1.0
 ipykernel>=6.25
+
+# EFA (FactorAnalysis)
+scikit-learn>=1.3
