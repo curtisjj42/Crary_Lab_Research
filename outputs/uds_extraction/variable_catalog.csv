@@ -1,0 +1,185 @@
+form_field,variable_name,label,source_page
+C1,MMSECOMP,Was any part of the MMSE completed?,26
+"C1 Neuropsychological Battery
+Summary Scores",MMSELOC,Administration of the MMSE was:,27
+C1,MMSELAN,Language of MMSE administration,28
+"C1 Neuropsychological Battery
+Summary Scores",MMSELANX,"Language of MMSE administration —
+Other (specify)",29
+C1,MMSEVIS,"Subject was unable to complete one or
+more sections due to visual impairment",30
+"C1 Neuropsychological Battery
+Summary Scores",MMSEHEAR,"Subject was unable to complete one or
+more sections due to hearing impairment",31
+C1,MMSEORDA,Orientation subscale score — Time,32
+"C1 Neuropsychological Battery
+Summary Scores",MMSEORLO,Orientation subscale score — Place,33
+C1,PENTAGON,Intersecting pentagon subscale score,34
+"C1 Neuropsychological Battery
+Summary Scores",NACCMMSE,Total MMSE score (using D-L-R-O-W),35
+C1,NPSYCLOC,"The remainder of the battery was
+administered:",36
+"C1 Neuropsychological Battery
+Summary Scores",NPSYLAN,Language of test administration,37
+C1,NPSYLANX,"Language of test administration — Other
+(specify)",38
+"C1 Neuropsychological Battery
+Summary Scores",LOGIMO,"If this test has been administered to
+the subject within the past 3 months,
+specify the date previously administered
+(month)",39
+C1,LOGIDAY,"If this test has been administered to
+the subject within the past 3 months,
+specify the date previously administered
+(day)",40
+"C1 Neuropsychological Battery
+Summary Scores",LOGIYR,"If this test has been administered to
+the subject within the past 3 months,
+specify the date previously administered
+(year)",41
+C1,LOGIPREV,"Total score from the previous test
+administration",42
+"C1 Neuropsychological Battery
+Summary Scores",LOGIMEM,"Total number of story units recalled from
+this current test administration",43
+C1,MEMUNITS,"Logical Memory IIA — Delayed — Total
+number of story units recalled",44
+"C1 Neuropsychological Battery
+Summary Scores",MEMTIME,"Logical Memory IIA — Delayed — Time
+elapsed since Logical Memory IA —
+Immediate",45
+C1,UDSBENTC,Total score for copy of Benson figure,46
+"C1 Neuropsychological Battery
+Summary Scores",UDSBENTD,"Total score for 10- to 15-minute delayed
+drawing of Benson figure",47
+C1,UDSBENRS,"Recognized original stimulus from
+among four options",48
+"C1 Neuropsychological Battery
+Summary Scores",DIGIF,Digit span forward trials correct,49
+C1,DIGIFLEN,Digit span forward length,50
+"C1 Neuropsychological Battery
+Summary Scores",DIGIB,Digit span backward trials correct,51
+C1,DIGIBLEN,Digit span backward length,52
+"C1 Neuropsychological Battery
+Summary Scores",ANIMALS,"Animals — Total number of animals
+named in 60 seconds",53
+C1,VEG,"Vegetable — Total number of vegetables
+named in 60 seconds",54
+"C1 Neuropsychological Battery
+Summary Scores",TRAILA,"Trail Making Test Part A — Total number
+of seconds to complete",55
+C1,TRAILARR,Part A — Number of commission errors,56
+"C1 Neuropsychological Battery
+Summary Scores",TRAILALI,Part A — Number of correct lines,57
+C1,TRAILB,"Trail Making Test Part B — Total number
+of seconds to complete",58
+"C1 Neuropsychological Battery
+Summary Scores",TRAILBRR,Part B — Number of commission errors,59
+C1,TRAILBLI,Part B — Number of correct lines,60
+"C1 Neuropsychological Battery
+Summary Scores",WAIS,WAIS-R Digit Symbol,61
+C1,BOSTON,Boston Naming Test (30) — Total score,62
+"C1 Neuropsychological Battery
+Summary Scores",UDSVERFC,"Number of correct F-words generated in
+1 minute",63
+C1,UDSVERFN,Number of F-words repeated in 1 minute,64
+"C1 Neuropsychological Battery
+Summary Scores",UDSVERNF,"Number of non-F-words and rule
+violation errors in 1 minute",65
+C1,UDSVERLC,"Number of correct L-words generated in
+1 minute",66
+"C1 Neuropsychological Battery
+Summary Scores",UDSVERLR,Number of L-words repeated in 1 minute,67
+C1,UDSVERLN,"Number of non-L-words and rule
+violation errors in 1 minute",68
+"C1 Neuropsychological Battery
+Summary Scores",UDSVERTN,"Total number of correct F-words and
+L-words",69
+C1,UDSVERTE,"Total number of F-word and L-word
+repetition errors",70
+"C1 Neuropsychological Battery
+Summary Scores",UDSVERTI,"Total number of non-F/L-words and rule
+violation errors",71
+C1,COGSTAT,"Per clinician, based on the
+neuropsychological examination, the
+subject’s cognitive status is deemed",72
+"C1 Neuropsychological Battery
+Summary Scores",NACCC1,"Form date discrepancy between UDS
+Form A1 and Form C1",73
+C2,MOCACOMP,Was any part of MoCA administered?,74
+C2 Neuropsychological Battery Scores,MOCAREAS,"If no part of MoCA administered, reason
+code",75
+C2,MOCALOC,Where was MoCA administered?,76
+C2 Neuropsychological Battery Scores,MOCALAN,Language of MoCA administration,77
+C2,MOCALANX,"Language of MoCA administration —
+Other, specify",78
+C2 Neuropsychological Battery Scores,MOCAVIS,"Subject was unable to complete one or
+more sections due to visual impairment",79
+C2,MOCAHEAR,"Subject was unable to complete one or
+more sections due to hearing impairment",80
+C2 Neuropsychological Battery Scores,MOCATOTS,MoCA Total Raw Score — uncorrected,81
+C2,NACCMOCA,"MoCA Total Score — corrected for
+education",82
+C2 Neuropsychological Battery Scores,MOCATRAI,MoCA: Visuospatial/executive — Trails,83
+C2,MOCACUBE,MoCA: Visuospatial/executive — Cube,84
+C2 Neuropsychological Battery Scores,MOCACLOC,"MoCA: Visuospatial/executive — Clock
+contour",85
+C2,MOCACLON,"MoCA: Visuospatial/executive — Clock
+numbers",86
+C2 Neuropsychological Battery Scores,MOCACLOH,"MoCA: Visuospatial/executive — Clock
+hands",87
+C2,MOCANAMI,MoCA: Language — Naming,88
+C2 Neuropsychological Battery Scores,MOCAREGI,"MoCA: Memory — Registration (two
+trials)",89
+C2,MOCADIGI,MoCA: Attention — Digits,90
+C2 Neuropsychological Battery Scores,MOCALETT,MoCA: Attention — Letter A,91
+C2,MOCASER7,MoCA: Attention — Serial 7s,92
+C2 Neuropsychological Battery Scores,MOCAREPE,MoCA: Language — Repetition,93
+C2,MOCAFLUE,MoCA: Language — Fluency,94
+C2 Neuropsychological Battery Scores,MOCAABST,MoCA: Abstraction,95
+C2,MOCARECN,MoCA: Delayed recall — No cue,96
+C2 Neuropsychological Battery Scores,MOCARECC,MoCA: Delayed recall — Category cue,97
+C2,MOCARECR,MoCA: Delayed recall — Recognition,98
+C2 Neuropsychological Battery Scores,MOCAORDT,MoCA: Orientation — Date,99
+C2,MOCAORMO,MoCA: Orientation — Month,100
+C2 Neuropsychological Battery Scores,MOCAORYR,MoCA: Orientation — Year,101
+C2,MOCAORDY,MoCA: Orientation — Day,102
+C2 Neuropsychological Battery Scores,MOCAORPL,MoCA: Orientation — Place,103
+C2,MOCAORCT,MoCA: Orientation — City,104
+C2,CRAFTVRS,"Craft Story 21 Recall (Immediate) —
+Total story units recalled, verbatim
+scoring",108
+C2 Neuropsychological Battery Scores,CRAFTURS,"Craft Story 21 Recall (Immediate) —
+Total story units recalled, paraphrase
+scoring",109
+C2 Neuropsychological Battery Scores,DIGFORCT,"Number Span Test: Forward — Number
+of correct trials",111
+C2,DIGFORSL,"Number Span Test: Forward — Longest
+span forward",112
+C2 Neuropsychological Battery Scores,DIGBACCT,"Number Span Test: Backward — Number
+of correct trials",113
+C2,DIGBACLS,"Number Span Test: Backward — Longest
+span backward",114
+C2 Neuropsychological Battery Scores,CRAFTDVR,"Craft Story 21 Recall (Delayed) — Total
+story units recalled, verbatim scoring",123
+C2,CRAFTDRE,"Craft Story 21 Recall (Delayed) — Total
+story units recalled, paraphrase scoring",124
+C2 Neuropsychological Battery Scores,CRAFTDTI,"Craft Story 21 Recall (Delayed) — Delay
+time",125
+C2,CRAFTCUE,"Craft Story 21 Recall (Delayed) — Cue
+(boy) needed",126
+C2 Neuropsychological Battery Scores,MINTTOTS,"Multilingual Naming Test (MINT) —
+Total score",129
+C2,MINTTOTW,"Multilingual Naming Test (MINT) —
+Total correct without semantic cue",130
+C2 Neuropsychological Battery Scores,MINTSCNG,"Multilingual Naming Test (MINT) —
+Semantic cues: Number given",131
+C2,MINTSCNC,"Multilingual Naming Test (MINT) —
+Semantic cues: Number correct with cue",132
+C2 Neuropsychological Battery Scores,MINTPCNG,"Multilingual Naming Test (MINT) —
+Phonemic cues: Number given",133
+C2,MINTPCNC,"Multilingual Naming Test (MINT) —
+Phonemic cues: Number correct with
+cue",134
+C2 Neuropsychological Battery Scores,NACCC2,"Form date discrepancy between UDS
+Form A1 and Form C2",145
