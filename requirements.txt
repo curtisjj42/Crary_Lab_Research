@@ -1,0 +1,15 @@
+# Core data and plotting
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+
+# PDF table extraction
+pdfplumber>=0.11
+
+# Whole-slide imaging (Python bindings)
+openslide-python>=1.3
+
+# Notebooks (quality-of-life for working in notebooks/ipynb)
+jupyter>=1.0
+ipykernel>=6.25
