@@ -1,0 +1,9 @@
+AI predictions of cognitive variables
+
+1. Use AI/ML algorithms to predict cognitive status across regions and stains
+
+Tasks 
+1) Draft up a paragraph describing algorithm usage, variable usage
+	Goal is project description
+	Essentially a project pitch
+	Collab with BU lab team
