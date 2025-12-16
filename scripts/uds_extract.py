@@ -76,7 +76,20 @@ def main():
     cleaned, summary = align_dataset_to_catalog(df, catalog, mmse_cols=mmse_cols, moca_cols=moca_cols)
 
     cleaned_path = out_dir / "cleaned_subset.parquet"
-    cleaned.to_parquet(cleaned_path, index=False)
+
+    # Fix for ArrowKeyError: "A type extension with name pandas.period already defined"
+    # This prevents crashes when pandas attempts to re-register types already in pyarrow.
+    try:
+        import pyarrow
+        try:
+            pyarrow.unregister_extension_type("pandas.period")
+            pyarrow.unregister_extension_type("pandas.interval")
+        except Exception:
+            pass
+    except ImportError:
+        pass
+
+    cleaned.to_parquet(cleaned_path, index=False, engine='pyarrow')
     summary_path = out_dir / "availability_summary.csv"
     summary.to_csv(summary_path, index=False)
 
