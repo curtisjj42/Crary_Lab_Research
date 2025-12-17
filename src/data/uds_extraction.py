@@ -1,7 +1,7 @@
 """
 UDS (Uniform Data Set) table extraction and dataset utilities.
 
-This module streamlines logic prototyped in notebooks/exploratory/uds_table_extraction.ipynb
+This module streamlines logic prototyped in notebooks/exploratory/correlation_EFA.ipynb
 into reusable functions so the same handling can be performed consistently from
 scripts or notebooks.
 
