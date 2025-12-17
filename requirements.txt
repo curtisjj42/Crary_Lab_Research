@@ -16,3 +16,7 @@ ipykernel>=6.25
 
 # EFA (FactorAnalysis)
 scikit-learn>=1.3
+
+# Multicollinearity analysis
+statsmodels>=0.14
+factor-analyzer
